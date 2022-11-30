@@ -62,6 +62,19 @@ Result
 ## Extension for REACT
 
 1. React developer tools google extension
+
 ![image](https://user-images.githubusercontent.com/68217111/204906172-3e94ef37-3417-41fa-8fd6-d14a99c3b191.png)
 
-2. 
+2. React code snippets (VScode extension)
+
+![image](https://user-images.githubusercontent.com/68217111/204926796-19468034-fe1a-4c92-b3fd-cbe79373659f.png)
+
+- rfc : react functional component shortcut
+
+
+3. Auto Import  (VScode extension)
+
+![image](https://user-images.githubusercontent.com/68217111/204927091-d7d9a1d1-d39c-4ce1-8932-506fefe93502.png)
+
+- automatically import the library, module, framework
+
