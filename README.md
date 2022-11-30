@@ -96,3 +96,7 @@ Result
  - In return, all of xml components must wrap with one component
  
  - <frangment> tag will not render in html -> shortcut : <>, </>
+
+2. Using brackets for js expression
+
+![image](https://user-images.githubusercontent.com/68217111/204929812-91a0d96a-3a73-45d8-88dd-13b08c43bdbd.png)
