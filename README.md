@@ -113,9 +113,18 @@ using return in outside of the return statement
 
 using &&, || in return 
 
-![image](https://user-images.githubusercontent.com/68217111/204930386-286bc3fd-c660-4467-851a-19988d1c9028.png)
+![image](https://user-images.githubusercontent.com/68217111/204932733-4329a810-eb56-4729-9be4-ff6a75724e84.png)
 
+- && : If the left is True, return the right component
+- || : If the left is False, return the right component
 
+4. switch case expression
+
+![image](https://user-images.githubusercontent.com/68217111/204932831-44a709d6-f582-4e6c-825d-aad3a473b05f.png)
+
+5. ternary operator -> You can use JS grammer in this case
+
+![image](https://user-images.githubusercontent.com/68217111/204932926-fa25c93c-e519-43f0-b5d4-8482c3d602c4.png)
 
 
 
