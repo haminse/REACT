@@ -95,8 +95,28 @@ Result
 ![image](https://user-images.githubusercontent.com/68217111/204928923-25804150-0ad7-41cb-979f-ad87f56d4dc2.png)
  - In return, all of xml components must wrap with one component
  
+ - Thus, You only can return one tag in JSX
+ 
  - <frangment> tag will not render in html -> shortcut : <>, </>
 
 2. Using brackets for js expression
 
-![image](https://user-images.githubusercontent.com/68217111/204929812-91a0d96a-3a73-45d8-88dd-13b08c43bdbd.png)
+![image](https://user-images.githubusercontent.com/68217111/204929888-8dc7b2a4-c9d5-4d8f-bede-48fca9bada35.png)
+
+3. Condition -> You cannot use JS if else condition in jsx
+
+You need to use like this way,
+
+using return in outside of the return statement
+
+![image](https://user-images.githubusercontent.com/68217111/204930048-69f695a1-551c-49ea-bca1-3d916b170c06.png)
+
+using &&, || in return 
+
+![image](https://user-images.githubusercontent.com/68217111/204930386-286bc3fd-c660-4467-851a-19988d1c9028.png)
+
+
+
+
+
+
