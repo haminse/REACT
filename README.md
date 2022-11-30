@@ -78,3 +78,11 @@ Result
 
 - automatically import the library, module, framework
 
+***
+## What does BABEL do?
+
+![image](https://user-images.githubusercontent.com/68217111/204928117-dd1c6ebf-85aa-4e52-a97a-cb55b9a50dd0.png)
+
+- JSX = JS(grammer) + XML(carry the data)
+- BABEL convert JSX code to JS code 
+
