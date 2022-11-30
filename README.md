@@ -58,3 +58,10 @@ Result
 ![image](https://user-images.githubusercontent.com/68217111/204905871-5a8c05ea-0fb6-4487-9e66-9fa3d3f8f8c6.png)
 
 ***
+
+## Extension for REACT
+
+1. React developer tools google extension
+![image](https://user-images.githubusercontent.com/68217111/204906172-3e94ef37-3417-41fa-8fd6-d14a99c3b191.png)
+
+2. 
