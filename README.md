@@ -86,3 +86,13 @@ Result
 - JSX = JS(grammer) + XML(carry the data)
 - BABEL convert JSX code to JS code 
 
+***
+
+## Rule for React
+
+1. Must warp with one component(function)
+
+![image](https://user-images.githubusercontent.com/68217111/204928923-25804150-0ad7-41cb-979f-ad87f56d4dc2.png)
+ - In return, all of xml components must wrap with one component
+ 
+ - <frangment> tag will not render in html -> shortcut : <>, </>
