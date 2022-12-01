@@ -22,6 +22,9 @@ React study
 Result
 ![image](https://user-images.githubusercontent.com/68217111/204902528-876f36b8-42a0-4acb-b44f-b108fa87cf0c.png)
 
+4. How to terminate?
+- go to terminal(where react runs) and press ctrl + C
+
 ***
 ## What's in my folder?
 ![image](https://user-images.githubusercontent.com/68217111/204903335-44d43b0d-cea1-4742-be37-d5403319949b.png)
