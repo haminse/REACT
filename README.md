@@ -35,9 +35,9 @@ Result
 
 - src : Have to coding in here
 
-  - App.js : combine all html components
+  - App.js : combine all html components : Edit the App fucntion!
 
-  - index.js : call component from App.js and push the code into react 
+  - index.js : call component from App.js(App function) and push the code into react 
 
 ***
 
